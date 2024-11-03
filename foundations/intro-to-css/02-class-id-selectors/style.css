@@ -1,0 +1,18 @@
+.odd {
+    background-color: #b70328;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#spec {
+    color: blue;
+    font-size: 36px;
+}
+
+.mid {
+    font-size: 24px;
+}
+
+#two {
+    background-color: lightgreen;
+    font-weight: bold;   
+}
